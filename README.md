@@ -19,6 +19,7 @@ various products across different states and cities in Ecuador for the
 years 2013 to 2017. It provides an in-depth analysis of geographical
 sales trends, enabling insights into regional product demand and
 performance during this period.
+<br>
 ![Data Visualization - Sales](Cover%20Photo%20Data%20Visualization%20-%20Sales.PNG)
 
 ## Market Share Analysis of VanArsdel Ltd.
@@ -29,4 +30,5 @@ by product categories, Total Units sold per month, and VanArsdel\'s
 contribution to the overall market. Additionally, it highlights the
 percentage of unit market share, offering a comprehensive view of the
 company\'s performance in comparison to competitors.
+<br>
 ![VanArsdel Ltd Market Share Analysis](Cover%20Photo%20VanArsdel%20Ltd%20Market%20Share%20Analysis.PNG)
