@@ -20,7 +20,6 @@ years 2013 to 2017. It provides an in-depth analysis of geographical
 sales trends, enabling insights into regional product demand and
 performance during this period.
 ![Data Visualization - Sales](Cover%20Photo%20Data%20Visualization%20-%20Sales.PNG)
-[View the Power BI dashboard on NovyPro](https://app.powerbi.com/view?r=eyJrIjoiYWMzZmFhZDctOWJhYS00Yzc0LWIxMTctYzg1OTA3YWYyOWI1IiwidCI6IjBmZWQwM2EzLTQwMmQtNDYzMy1hOGNkLThiMzA4ODIyMjUzZSIsImMiOjEwfQ%3D%3D)
 
 ## Market Share Analysis of VanArsdel Ltd.
 
@@ -31,4 +30,3 @@ contribution to the overall market. Additionally, it highlights the
 percentage of unit market share, offering a comprehensive view of the
 company\'s performance in comparison to competitors.
 ![VanArsdel Ltd Market Share Analysis](Cover%20Photo%20VanArsdel%20Ltd%20Market%20Share%20Analysis.PNG)
-[View the Power BI dashboard on NovyPro](https://www.novypro.com/your-link-here)
