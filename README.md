@@ -21,6 +21,8 @@ sales trends, enabling insights into regional product demand and
 performance during this period.
 <br>
 ![Data Visualization - Sales](Cover%20Photo%20Data%20Visualization%20-%20Sales.PNG)
+<br>
+[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWMzZmFhZDctOWJhYS00Yzc0LWIxMTctYzg1OTA3YWYyOWI1IiwidCI6IjBmZWQwM2EzLTQwMmQtNDYzMy1hOGNkLThiMzA4ODIyMjUzZSIsImMiOjEwfQ%3D%3D)
 
 ## Market Share Analysis of VanArsdel Ltd.
 
