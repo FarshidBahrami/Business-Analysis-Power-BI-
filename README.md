@@ -14,7 +14,7 @@ data-driven approach to achieving strategic goals.
 
 ## Sales Performance Analysis in Ecuador (2013-2017)
 
-This Power BI sales visualization highlights the sales performance of
+[This Power BI sales visualization](https://app.powerbi.com/view?r=eyJrIjoiYWMzZmFhZDctOWJhYS00Yzc0LWIxMTctYzg1OTA3YWYyOWI1IiwidCI6IjBmZWQwM2EzLTQwMmQtNDYzMy1hOGNkLThiMzA4ODIyMjUzZSIsImMiOjEwfQ%3D%3D) highlights the sales performance of
 various products across different states and cities in Ecuador for the
 years 2013 to 2017. It provides an in-depth analysis of geographical
 sales trends, enabling insights into regional product demand and
@@ -22,11 +22,11 @@ performance during this period.
 <br>
 ![Data Visualization - Sales](Cover%20Photo%20Data%20Visualization%20-%20Sales.PNG)
 <br>
-[View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWMzZmFhZDctOWJhYS00Yzc0LWIxMTctYzg1OTA3YWYyOWI1IiwidCI6IjBmZWQwM2EzLTQwMmQtNDYzMy1hOGNkLThiMzA4ODIyMjUzZSIsImMiOjEwfQ%3D%3D)
+
 
 ## Market Share Analysis of VanArsdel Ltd.
 
-This Power BI visualization showcases the Market Share Analysis of
+[This Power BI visualization](https://app.powerbi.com/view?r=eyJrIjoiY2M4NmFlN2MtY2MzMC00ZjAyLThjNzItZDc2ZmE5YjJkZjI1IiwidCI6IjBmZWQwM2EzLTQwMmQtNDYzMy1hOGNkLThiMzA4ODIyMjUzZSIsImMiOjEwfQ%3D%3D) showcases the Market Share Analysis of
 VanArsdel Ltd., providing insights into Total Category Volume segmented
 by product categories, Total Units sold per month, and VanArsdel\'s
 contribution to the overall market. Additionally, it highlights the
